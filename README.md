@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharoonm99
-- 👀 I’m interested in ...wed development
+- 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...dont know
 - 📫 How to reach me ...
